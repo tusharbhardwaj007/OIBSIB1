@@ -1,2 +1,2 @@
-# OIBSIB2
+# OIBSIP2
 Task2: Tribute Page -https://tusharbhardwaj007.github.io/OIBSIP2/
